@@ -1,0 +1,69 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  security:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Gitleaks (secret scan, full history)
+        uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: No external script/style origins (supply-chain gate)
+        run: |
+          # allow: relative assets, the one allowlisted data mirror (JS const), inline SVG
+          if grep -nE '<(script|link)[^>]*(src|href)="https?://' index.html; then
+            echo "::error::external script/style origin found — supply chain must stay zero-dep"
+            exit 1
+          fi
+          echo "OK: no external origins"
+
+      - name: Deck sanity (parse + required mounts)
+        run: |
+          python3 - <<'PY'
+          import html.parser, sys
+
+          class P(html.parser.HTMLParser):
+              def __init__(self):
+                  super().__init__(); self.ids=set()
+              def handle_starttag(self, tag, attrs):
+                  for k,v in attrs:
+                      if k=='id': self.ids.add(v)
+
+          p=P(); p.feed(open('index.html').read())
+          required=['stream','markers','tickerTrack','statusText','clock','theatre','st24']
+          missing=[i for i in required if i not in p.ids]
+          if missing:
+              print('MISSING DOM MOUNTS:', missing); sys.exit(1)
+          print('OK: deck parses, all mounts present')
+          PY
+
+      - name: Feed shape check (data must stay schema-valid)
+        run: |
+          python3 - <<'PY'
+          import json, sys
+          try:
+              d=json.load(open('public/incidents.json'))
+          except Exception as e:
+              print('incidents.json unreadable:', e); sys.exit(1)
+          items=d['incidents'] if isinstance(d,dict) else d
+          if not isinstance(items,list) or not items:
+              print('no items'); sys.exit(1)
+          bad=[x for x in items if not x.get('published') or not x.get('title')]
+          if bad:
+              print(f'{len(bad)} malformed items'); sys.exit(1)
+          print(f'OK: {len(items)} items schema-valid')
+          PY

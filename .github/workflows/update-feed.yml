@@ -1,0 +1,45 @@
+name: Update Feed
+
+on:
+  schedule:
+    - cron: '23 * * * *'  # hourly at :23
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: pip install feedparser
+
+      - name: Fetch incidents (RSS)
+        run: python scripts/fetch_rss.py
+
+      - name: Fetch markets
+        run: python scripts/fetch_markets.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "gulfwatch-feedbot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/incidents.json public/markets.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "feed: hourly refresh $(date -u +%FT%TZ)"
+            git push
+          fi

@@ -1,0 +1,1502 @@
+{
+  "generated_at": "2026-10-02T17:20:46.815379+00:00",
+  "total_incidents": 68,
+  "incidents": [
+    {
+      "id": "5dad0c844c5406e146b0e338ce7da821",
+      "title": "Mansoor bin Mohammed: My sincere thanks to His Highness Sheikh Mohammed bin Rashid Al Maktoum for his continued patronage and support for Dubai\u2019s sporting sector. I congratulate my brother, His Highness Sheikh Ahmed bin Mohammed bin Rashid Al Maktoum, on taking on the role of Chairman of Al Wasl Club, and Sheikh Butti bin Maktoum bin Juma Al Maktoum on becoming Vice Chairman. I am confident that the legacy of the late Sheikh Ahmed bin Rashid Al Maktoum will remain in safe hands as the club continues to build on its proud history. Wishing Al Wasl and all of Dubai\u2019s clubs continued success and achievement.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2106064368324780434",
+      "published": "2026-10-02T16:50:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/future/technology/2026/10/02/uae-among-top-12-targets-for-cyber-threats-says-microsoft/",
+      "title": "UAE among top 12 targets for cyber threats, says Microsoft",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/02/uae-among-top-12-targets-for-cyber-threats-says-microsoft/",
+      "published": "2026-10-02T16:41:19+00:00",
+      "type": "cyber",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3907770",
+      "title": "Small plane crashes in northern Israel, killing 1 and injuring another",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/small-plane-crashes-in-northern-israel-killing-1-and-injuring-another/",
+      "published": "2026-10-02T16:40:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "fa7e0ba71483a0f65d84472ddd0f217a",
+      "title": "RT by @DXBMediaOffice: RT by @DXBMediaOffice: My sincere thanks to His Highness Sheikh Mohammed bin Rashid Al Maktoum for his continued patronage and support for Dubai\u2019s sporting sector. I congratulate my brother, His Highness Sheikh Ahmed bin Mohammed bin Rashid Al Maktoum, on taking on the role of Chairman of Al Wasl Club, and Sheikh Butti bin Maktoum bin Juma Al Maktoum on becoming Vice Chairman. I am confident that the legacy of the late Sheikh Ahmed bin Rashid Al Maktoum will remain in safe hands as the club continues to build on its proud history. Wishing Al Wasl and all of Dubai\u2019s clubs continued success and achievement.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/sheikhmansoor/status/2106060373975855427",
+      "published": "2026-10-02T16:34:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1790950680",
+      "title": "Three in four households go hungry in parts of Yemen amid fighting: UN",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/2/three-in-four-households-go-hungry-in-parts-of-yemen-amid-fighting-un?traffic_source=rss",
+      "published": "2026-10-02T16:06:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1790953249",
+      "title": "Trump to name intelligence chief Clayton as AI tsar: Reports",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/2/reports-trump-to-name-intel-chief-clayton-as-ai-tsar?traffic_source=rss",
+      "published": "2026-10-02T16:06:15+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/02/aviation-security-flydubai-flight-israel",
+      "title": "Suicide by plane or terrorism? Speculation over motive in flight 1073 attack",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/02/aviation-security-flydubai-flight-israel",
+      "published": "2026-10-02T15:40:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3907758",
+      "title": "IDF says Hamas Northern Brigade chief killed this week held 15 hostages during war",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/idf-says-it-killed-hamas-commander-who-oversaw-captivity-of-15-hostages/",
+      "published": "2026-10-02T15:37:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/02/ukraine-war-fatigue-fuels-defense-spending-downgrade-plan-in-italy/",
+      "title": "Ukraine war fatigue fuels defense-spending downgrade plan in Italy",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/02/ukraine-war-fatigue-fuels-defense-spending-downgrade-plan-in-italy/",
+      "published": "2026-10-02T15:29:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/02/flydubai-ghaith-al-ghaith-statement-fz-1073-tel-aviv-flight/",
+      "title": "Flydubai chief praises crew and passengers after mid-air emergency on Tel Aviv-bound flight",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/02/flydubai-ghaith-al-ghaith-statement-fz-1073-tel-aviv-flight/",
+      "published": "2026-10-02T15:28:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.0853,
+        "lng": 34.7818
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0b9915656f1b2fe60331f260f9ac2105",
+      "title": "World Health Organization (#WHO) warns that approval system imposed by Israeli occupation officials on entry of medical supplies remains \"major bottleneck\" to delivery of health services amid deterioration of health situation in #Gaza  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2106043602572853574",
+      "published": "2026-10-02T15:28:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=96995",
+      "title": "The NIH-Pentagon deal isn\u2019t a cash grab. It\u2019s a rescue.",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/the-nih-pentagon-deal-isnt-a-cash-grab-its-a-rescue/",
+      "published": "2026-10-02T15:10:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3907692",
+      "title": "In first, senior UAE official calls flydubai plane attack an \u2018act of terrorism\u2019",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/in-first-senior-uae-official-calls-flydubai-plane-attack-an-act-of-terrorism/",
+      "published": "2026-10-02T14:47:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "99d2db5d003e9d4c3ac976b00841b59f",
+      "title": "\u0627\u062e\u062a\u062a\u0645\u062a \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0645\u0634\u0627\u0631\u0643\u062a\u0647\u0627 \u0641\u064a \u0623\u0639\u0645\u0627\u0644 \u0645\u0624\u062a\u0645\u0631 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u062e\u0627\u0645\u0633 \u0639\u0634\u0631 \u0644\u0645\u0646\u0639 \u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0648\u0627\u0644\u0639\u062f\u0627\u0644\u0629 \u0627\u0644\u062c\u0646\u0627\u0626\u064a\u0629 \u2013 \u0623\u0628\u0648\u0638\u0628\u064a 2026\u060c \u0648\u0634\u0647\u062f\u062a \u0645\u0634\u0627\u0631\u0643\u0629 \u0627\u0644\u0648\u0632\u0627\u0631\u0629 \u062a\u0646\u0638\u064a\u0645 \u062d\u062f\u062b\u064a\u0646 \u0631\u0641\u064a\u0639\u064a \u0627\u0644\u0645\u0633\u062a\u0648\u0649\u060c \u0648\u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629 \u0641\u064a 6 \u062c\u0644\u0633\u0627\u062a \u0648\u0627\u062c\u062a\u0645\u0627\u0639\u0627\u062a \u0645\u062a\u062e\u0635\u0635\u0629\u060c \u0625\u0644\u0649 \u062c\u0627\u0646\u0628 \u0627\u0633\u062a\u0639\u0631\u0627\u0636 \u0639\u062f\u062f \u0645\u0646 \u0627\u0644\u0627\u0628\u062a\u0643\u0627\u0631\u0627\u062a \u0648\u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0648\u0627\u0644\u0631\u0642\u0645\u064a\u0629 \u0645\u0646 \u062e\u0644\u0627\u0644 \u062c\u0646\u0627\u062d \u0627\u0644\u0648\u0632\u0627\u0631\u0629 \u0641\u064a \u0627\u0644\u0645\u0639\u0631\u0636 \u0627\u0644\u0645\u0635\u0627\u062d\u0628 \u0644\u0644\u0645\u0624\u062a\u0645\u0631. The Ministry of Interior has concluded its participation in the 15th United Nations Congress on Crime Prevention and Criminal Justice \u2013 Abu Dhabi 2026. The Ministry\u2019s participation featured the organization of two high-level events and participation in six specialized sessions and meetings, in addition to showcasing a number of security and digital innovations and applications throu",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2106030443187544403",
+      "published": "2026-10-02T14:36:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "99d2db5d003e9d4c3ac976b00841b59f",
+      "title": "\u0627\u062e\u062a\u062a\u0645\u062a \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0645\u0634\u0627\u0631\u0643\u062a\u0647\u0627 \u0641\u064a \u0623\u0639\u0645\u0627\u0644 \u0645\u0624\u062a\u0645\u0631 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u062e\u0627\u0645\u0633 \u0639\u0634\u0631 \u0644\u0645\u0646\u0639 \u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0648\u0627\u0644\u0639\u062f\u0627\u0644\u0629 \u0627\u0644\u062c\u0646\u0627\u0626\u064a\u0629 \u2013 \u0623\u0628\u0648\u0638\u0628\u064a 2026\u060c \u0648\u0634\u0647\u062f\u062a \u0645\u0634\u0627\u0631\u0643\u0629 \u0627\u0644\u0648\u0632\u0627\u0631\u0629 \u062a\u0646\u0638\u064a\u0645 \u062d\u062f\u062b\u064a\u0646 \u0631\u0641\u064a\u0639\u064a \u0627\u0644\u0645\u0633\u062a\u0648\u0649\u060c \u0648\u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629 \u0641\u064a 6 \u062c\u0644\u0633\u0627\u062a \u0648\u0627\u062c\u062a\u0645\u0627\u0639\u0627\u062a \u0645\u062a\u062e\u0635\u0635\u0629\u060c \u0625\u0644\u0649 \u062c\u0627\u0646\u0628 \u0627\u0633\u062a\u0639\u0631\u0627\u0636 \u0639\u062f\u062f \u0645\u0646 \u0627\u0644\u0627\u0628\u062a\u0643\u0627\u0631\u0627\u062a \u0648\u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0648\u0627\u0644\u0631\u0642\u0645\u064a\u0629 \u0645\u0646 \u062e\u0644\u0627\u0644 \u062c\u0646\u0627\u062d \u0627\u0644\u0648\u0632\u0627\u0631\u0629 \u0641\u064a \u0627\u0644\u0645\u0639\u0631\u0636 \u0627\u0644\u0645\u0635\u0627\u062d\u0628 \u0644\u0644\u0645\u0624\u062a\u0645\u0631. The Ministry of Interior has concluded its participation in the 15th United Nations Congress on Crime Prevention and Criminal Justice \u2013 Abu Dhabi 2026. The Ministry\u2019s participation featured the organization of two high-level events and participation in six specialized sessions and meetings, in addition to showcasing a number of security and digital innovations and applications throu",
+      "source": "IDF (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2106030443187544403",
+      "published": "2026-10-02T14:36:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "78266226d684245ecc7c8cced8affa3f",
+      "title": "flydubai Chief Executive Officer, Ghaith Al Ghaith: On 30 September, flydubai flight FZ 1073 from Dubai to Tel Aviv was diverted to Tabuk in Saudi Arabia, following a safety incident in the flight deck. I am relieved to confirm that all 172 passengers and crew on board are safe and being cared for. This includes our Captain, who has now returned to the UAE following medical clearance. We will continue to provide everyone affected with the support they need. I would like to commend the professionalism and dedication shown by our Captain, and the pilots who secured the aircraft and landed it safely as well as the cabin crew. My deepest thanks also go to the passengers on board who assisted our",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2106028895367758261",
+      "published": "2026-10-02T14:29:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.0853,
+        "lng": 34.7818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/asia-pacific/2026/10/02/taiwans-first-two-f-16v-fighter-jets-arrive-to-bolster-defenses-against-china/",
+      "title": "Taiwan\u2019s first two F-16V fighter jets arrive to bolster defenses against China",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/asia-pacific/2026/10/02/taiwans-first-two-f-16v-fighter-jets-arrive-to-bolster-defenses-against-china/",
+      "published": "2026-10-02T14:15:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1790949990",
+      "title": "G7 announces oil reserve release, as Trump hails Europe diesel deal",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss",
+      "published": "2026-10-02T14:14:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/02/french-air-force-plans-loyal-wingman-flight-in-2028-in-sovereign-ai-push/",
+      "title": "French Air Force plans loyal wingman flight in 2028 in sovereign AI push",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/02/french-air-force-plans-loyal-wingman-flight-in-2028-in-sovereign-ai-push/",
+      "published": "2026-10-02T13:59:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=97296",
+      "title": "Navy, Raytheon ink $24.4B deal for SM-6 \u2018acceleration\u2019",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/navy-raytheon-ink-24-4b-deal-for-sm-6-acceleration/",
+      "published": "2026-10-02T13:49:31+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/europe/2026/10/02/its-not-her-fault-children-of-iranian-nobel-prize-winner-narges-mohammadi-on-pain-of-separation/",
+      "title": "'It's not her fault': Children of Iranian Nobel Prize winner Narges Mohammadi on pain of separation",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/02/its-not-her-fault-children-of-iranian-nobel-prize-winner-narges-mohammadi-on-pain-of-separation/",
+      "published": "2026-10-02T13:41:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/02/israeli-supreme-court-overrules-decision-to-disqualify-arab-lists-from-election/",
+      "title": "Israeli Supreme Court overrules decision to disqualify Arab lists from election",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/02/israeli-supreme-court-overrules-decision-to-disqualify-arab-lists-from-election/",
+      "published": "2026-10-02T13:38:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c1049ec5b0bf85b1e557a13f5c60a14b",
+      "title": "Emirates has touched down in Helsinki for the first time. The launch of the daily flight marks the only year-round, direct connectivity between Finland and the UAE, introducing consistent and reliable services to unlock new leisure, corporate and trade opportunities for both countries.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2106013529128239562",
+      "published": "2026-10-02T13:28:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/aviation/2026/10/02/flydubai-flight-fz1073-puts-airline-deadheading-in-the-spotlight/",
+      "title": "Flydubai flight FZ1073 puts airline \u2018deadheading\u2019 in spotlight",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/aviation/2026/10/02/flydubai-flight-fz1073-puts-airline-deadheading-in-the-spotlight/",
+      "published": "2026-10-02T13:21:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5522d56faa97b1bf56d43485563e12b0",
+      "title": ". The National Human Rights Institution (NHRI) has submitted a written report on \u201cLocalising the Right to Adequate Housi...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/Dd_jVObiKjh",
+      "published": "2026-10-02T13:06:01+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3907612",
+      "title": "Settlers reportedly attack Palestinians in olive groves as harvest season begins",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/settlers-reportedly-attack-palestinians-in-olive-groves-as-harvest-season-begins/",
+      "published": "2026-10-02T12:11:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo#0",
+      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T11:52:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3907359",
+      "title": "Three years after October 7, Israel\u2019s citizens and its leaders are worlds apart",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/three-years-after-october-7-israels-citizens-and-its-leaders-are-worlds-apart/",
+      "published": "2026-10-02T11:26:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.timesofisrael.com/?p=3884420",
+      "title": "In \u2018Good Morning Gaza,\u2019 tank commander gives first-person look at troops\u2019 inner lives",
+      "source": "Times of Israel",
+      "source_url": "https://www.timesofisrael.com/in-good-morning-gaza-tank-commander-gives-first-person-look-at-troops-inner-lives/",
+      "published": "2026-10-02T11:22:53+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "358991ab7d4f9c508d7d240df520c306",
+      "title": "#Turkiye strongly condemns an attack by Yemen's Houthi group on civilian infrastructure serving the Prophet's Mosque in #SaudiArabia.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2105963762121355733",
+      "published": "2026-10-02T10:11:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8bf8bd44a5ead23dd949ec1efa52a844",
+      "title": "#EU urges #Pakistan & #Afghanistan to exercise restraint & engage in dialogue  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2105962864913555615",
+      "published": "2026-10-02T10:07:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9d737b938e19558dff37cf8f4d391b7e",
+      "title": "#EU discusses timing of diesel reserve release with the International Energy Agency.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2105961775795474692",
+      "published": "2026-10-02T10:03:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "61c382a08c28a47a5edac31e6386f36a",
+      "title": "#Lebanon condemns the targeting of a power facility feeding Al-Masjid El-Nabawi (the Prophet's Mosque) in Madinah, #SaudiArabia.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2105960632872755555",
+      "published": "2026-10-02T09:58:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5f6f3a1f868e679622f9e66c2882bd69",
+      "title": "ROP WEEKLY_An accident happens in seconds. What happens next matters. Give way. Keep clear. Stay calm. Every right move can help emergency teams reach those who need them. Don\u2019t add to the accident. Help end it. #royalomanpolice For listening, click the link below",
+      "source": "Royal Oman Police (RSS.app)",
+      "source_url": "https://x.com/RoyalOmanPolice/status/2105953050531918175",
+      "published": "2026-10-02T09:28:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 21.4735,
+        "lng": 55.9754
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=97149",
+      "title": "In Ukraine, data centers \u2018facing increased attacks\u2019 in recent weeks: Ex-official",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/in-ukraine-data-centers-facing-increased-attacks-in-recent-weeks-ex-official/",
+      "published": "2026-10-02T09:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "38dc7fe0c931d5ce7675deeb485e8429",
+      "title": "RT by @moiuae: RT by @moiuae: Legal Advisor Dr. Abdullah explains beneficial ownership and why disclosure matters in the General Secretariat\u2019s \u201cA Moment of Awareness\u201d, because identifying who owns or controls a company helps protect it from misuse for money laundering. @gsnamlcftpc #MomentofAwareness",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/GSNAMLCFTPC/status/2105945292365582664",
+      "published": "2026-10-02T08:57:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "38dc7fe0c931d5ce7675deeb485e8429",
+      "title": "RT by @moiuae: RT by @moiuae: Legal Advisor Dr. Abdullah explains beneficial ownership and why disclosure matters in the General Secretariat\u2019s \u201cA Moment of Awareness\u201d, because identifying who owns or controls a company helps protect it from misuse for money laundering. @gsnamlcftpc #MomentofAwareness",
+      "source": "IDF (RSS.app)",
+      "source_url": "https://x.com/GSNAMLCFTPC/status/2105945292365582664",
+      "published": "2026-10-02T08:57:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
+      "title": "\u2018I was fighting for my life\u2019: Indian pilot hailed as hero recalls flydubai cockpit attack",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
+      "published": "2026-10-02T08:39:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a56825163ac6ddd9441be3eaddc3ca40",
+      "title": "#Sudan's economy is in risk of inflation as pound plunges (Report)  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2105931223675683030",
+      "published": "2026-10-02T08:01:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "32c2d5b8071cc83c9ad17f91fd18e5b9",
+      "title": "\u0623\u0643\u062f\u062a \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0623\u0647\u0645\u064a\u0629 \u062a\u0648\u062d\u064a\u062f \u0627\u0644\u062c\u0647\u0648\u062f \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0648\u062a\u0648\u0633\u064a\u0639 \u0627\u0644\u0634\u0631\u0627\u0643\u0627\u062a \u0628\u064a\u0646 \u0627\u0644\u062d\u0643\u0648\u0645\u0627\u062a \u0648\u0623\u062c\u0647\u0632\u0629 \u0625\u0646\u0641\u0627\u0630 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0648\u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u062e\u0627\u0635\u060c \u0648\u062a\u0648\u0638\u064a\u0641 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0648\u0627\u0644\u062a\u0642\u0646\u064a\u0627\u062a \u0627\u0644\u062d\u062f\u064a\u062b\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0648\u0642\u0627\u064a\u0629 \u0645\u0646 \u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u0633\u064a\u0628\u0631\u0627\u0646\u064a\u0629\u060c \u0648\u0645\u0648\u0627\u062c\u0647\u0629 \u0627\u0644\u0627\u0633\u062a\u063a\u0644\u0627\u0644 \u0648\u0627\u0644\u0627\u0639\u062a\u062f\u0627\u0621 \u0627\u0644\u062c\u0646\u0633\u064a \u0639\u0644\u0649 \u0627\u0644\u0623\u0637\u0641\u0627\u0644 \u0639\u0628\u0631 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a\u060c \u0648\u0630\u0644\u0643 \u062e\u0644\u0627\u0644 \u062c\u0644\u0633\u0629 \u0641\u064a \u0645\u0624\u062a\u0645\u0631 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u062e\u0627\u0645\u0633 \u0639\u0634\u0631 \u0644\u0645\u0646\u0639 \u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0648\u0627\u0644\u0639\u062f\u0627\u0644\u0629 \u0627\u0644\u062c\u0646\u0627\u0626\u064a\u0629\u060c \u062d\u064a\u062b \u0627\u0633\u062a\u0639\u0631\u0636 \u0627\u0644\u0645\u0642\u062f\u0645 \u062e\u0627\u0644\u062f \u0627\u0644\u0643\u0639\u0628\u064a\u060c \u0645\u062f\u064a\u0631 \u0645\u0631\u0643\u0632 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0644\u062d\u0645\u0627\u064a\u0629 \u0627\u0644\u0637\u0641\u0644\u060c \u062a\u062c\u0631\u0628\u0629 \u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0641\u064a \u062a\u0648\u0638\u064a\u0641 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0644\u062a\u0639\u0632\u064a\u0632 \u062d\u0645\u0627\u064a\u0629 \u0627\u0644\u0623\u0637\u0641\u0627\u0644 \u0641\u064a \u0627\u0644\u0641\u0636\u0627\u0621 \u0627\u0644\u0631\u0642\u0645\u064a. The Ministry of Interior stressed the importance of international cooperation and partnerships between governments, law enforcement and the private sector, while leveraging AI and modern technologies to prevent cyber",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2105927279708922211",
+      "published": "2026-10-02T07:46:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "32c2d5b8071cc83c9ad17f91fd18e5b9",
+      "title": "\u0623\u0643\u062f\u062a \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0623\u0647\u0645\u064a\u0629 \u062a\u0648\u062d\u064a\u062f \u0627\u0644\u062c\u0647\u0648\u062f \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0648\u062a\u0648\u0633\u064a\u0639 \u0627\u0644\u0634\u0631\u0627\u0643\u0627\u062a \u0628\u064a\u0646 \u0627\u0644\u062d\u0643\u0648\u0645\u0627\u062a \u0648\u0623\u062c\u0647\u0632\u0629 \u0625\u0646\u0641\u0627\u0630 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0648\u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u062e\u0627\u0635\u060c \u0648\u062a\u0648\u0638\u064a\u0641 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0648\u0627\u0644\u062a\u0642\u0646\u064a\u0627\u062a \u0627\u0644\u062d\u062f\u064a\u062b\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0648\u0642\u0627\u064a\u0629 \u0645\u0646 \u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u0633\u064a\u0628\u0631\u0627\u0646\u064a\u0629\u060c \u0648\u0645\u0648\u0627\u062c\u0647\u0629 \u0627\u0644\u0627\u0633\u062a\u063a\u0644\u0627\u0644 \u0648\u0627\u0644\u0627\u0639\u062a\u062f\u0627\u0621 \u0627\u0644\u062c\u0646\u0633\u064a \u0639\u0644\u0649 \u0627\u0644\u0623\u0637\u0641\u0627\u0644 \u0639\u0628\u0631 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a\u060c \u0648\u0630\u0644\u0643 \u062e\u0644\u0627\u0644 \u062c\u0644\u0633\u0629 \u0641\u064a \u0645\u0624\u062a\u0645\u0631 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u062e\u0627\u0645\u0633 \u0639\u0634\u0631 \u0644\u0645\u0646\u0639 \u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0648\u0627\u0644\u0639\u062f\u0627\u0644\u0629 \u0627\u0644\u062c\u0646\u0627\u0626\u064a\u0629\u060c \u062d\u064a\u062b \u0627\u0633\u062a\u0639\u0631\u0636 \u0627\u0644\u0645\u0642\u062f\u0645 \u062e\u0627\u0644\u062f \u0627\u0644\u0643\u0639\u0628\u064a\u060c \u0645\u062f\u064a\u0631 \u0645\u0631\u0643\u0632 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0644\u062d\u0645\u0627\u064a\u0629 \u0627\u0644\u0637\u0641\u0644\u060c \u062a\u062c\u0631\u0628\u0629 \u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0641\u064a \u062a\u0648\u0638\u064a\u0641 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0644\u062a\u0639\u0632\u064a\u0632 \u062d\u0645\u0627\u064a\u0629 \u0627\u0644\u0623\u0637\u0641\u0627\u0644 \u0641\u064a \u0627\u0644\u0641\u0636\u0627\u0621 \u0627\u0644\u0631\u0642\u0645\u064a. The Ministry of Interior stressed the importance of international cooperation and partnerships between governments, law enforcement and the private sector, while leveraging AI and modern technologies to prevent cyber",
+      "source": "IDF (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2105927279708922211",
+      "published": "2026-10-02T07:46:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ac0dffa9247c6cebaaf8fa14502f3abd",
+      "title": ". The Strategic Police Advisory Group (SPAG), chaired by the UAE, convened a side event on the sidelines of the 81st ses...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/Dd-9t4miKQ8",
+      "published": "2026-10-02T07:37:20+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9c17cee93cfa618c6dc7b6af1ca4bdb6",
+      "title": "KPC: #Kuwait oil prices up USD 2.35 to USD 104.59 pb @kpcofficialkw  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2105918898839187691",
+      "published": "2026-10-02T07:12:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "21064d9bbd5074d10e291bd61bd8daa9",
+      "title": "RT by @CivilDefenceAD: RT by @CivilDefenceAD: Hazza bin Zayed received a delegation from Abu Dhabi\u2019s Police, Civil Defence Authority and Crises Management Centre, reviewing their efforts in ensuring a safe business environment that supports Al Ain\u2019s economic competitiveness and ensures continuity of business and services.",
+      "source": "Abu Dhabi Civil Defence (RSS.app)",
+      "source_url": "https://x.com/ADMediaOffice/status/2105916335662444855",
+      "published": "2026-10-02T07:02:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "84b85a901e727ef4d2ad266680524996",
+      "title": "RT by @CivilDefenceAD: RT by @CivilDefenceAD: Hazza bin Zayed received a delegation from Abu Dhabi\u2019s Police, Civil Defence Authority and Emergency, Crises and Disaster Management Centre, and reviewed the first half-year performance report as well as plans to enhance emergency and crisis preparedness in Al Ain Region.",
+      "source": "Abu Dhabi Civil Defence (RSS.app)",
+      "source_url": "https://x.com/ADMediaOffice/status/2105915926407422231",
+      "published": "2026-10-02T07:00:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0cd56f3fa6937e77d6ed6cd67029e901",
+      "title": "\u0639\u0642\u062f\u062a \u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0627\u0633\u062a\u0634\u0627\u0631\u064a\u0629 \u0627\u0644\u0625\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a\u0629 \u0644\u0644\u0634\u0631\u0637\u0629 (SPAG)\u060c \u0628\u0631\u0626\u0627\u0633\u0629 \u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u060c \u062d\u062f\u062b\u0627\u064b \u062c\u0627\u0646\u0628\u064a\u0627\u064b \u0639\u0644\u0649 \u0647\u0627\u0645\u0634 \u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u062f\u0648\u0631\u0629 \u0627\u0644\u062d\u0627\u062f\u064a\u0629 \u0648\u0627\u0644\u062b\u0645\u0627\u0646\u064a\u0646 \u0644\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 (UNGA81)\u060c \u062a\u0646\u0627\u0648\u0644 \u062c\u0647\u0648\u062f \u0627\u0644\u062f\u0648\u0644\u0629 \u0648\u0625\u0633\u0647\u0627\u0645\u0627\u062a\u0647\u0627 \u0641\u064a \u062f\u0639\u0645 \u0639\u0645\u0644\u064a\u0627\u062a \u062d\u0641\u0638 \u0627\u0644\u0633\u0644\u0627\u0645 \u0648\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0633\u0644\u0645 \u0648\u0627\u0644\u0623\u0645\u0646 \u0627\u0644\u062f\u0648\u0644\u064a\u064a\u0646\u060c \u0648\u0633\u0644\u0637 \u0627\u0644\u062d\u062f\u062b \u0627\u0644\u0636\u0648\u0621 \u0639\u0644\u0649 \u0623\u0647\u0645\u064a\u0629 \"\u0648\u0631\u0634\u0629 \u0642\u0627\u062f\u0629 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u0633\u0644\u0627\u0645 (2026)\"\u060c \u0627\u0644\u062a\u064a \u0627\u0633\u062a\u0636\u0627\u0641\u062a\u0647\u0627 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0641\u064a \u0623\u0628\u0648\u0638\u0628\u064a \u062e\u0644\u0627\u0644 \u0627\u0644\u0641\u062a\u0631\u0629 \u0645\u0646 (31) \u0623\u063a\u0633\u0637\u0633 \u0625\u0644\u0649 (4) \u0633\u0628\u062a\u0645\u0628\u0631 (2026)\u060c \u0648\u062c\u0645\u0639\u062a \u0644\u0644\u0645\u0631\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0642\u064a\u0627\u062f\u0627\u062a \u0627\u0644\u0645\u0643\u0648\u0646\u064a\u0646 \u0627\u0644\u0634\u0631\u0637\u064a \u0648\u0627\u0644\u0639\u0633\u0643\u0631\u064a \u0641\u064a \u0628\u0639\u062b\u0627\u062a \u062d\u0641\u0638 \u0627\u0644\u0633\u0644\u0627\u0645 \u0639\u0644\u0649 \u0637\u0627\u0648\u0644\u0629 \u0648\u0627\u062d\u062f\u0629 The Strategic Police Advisory Group (SPAG), chaired by the UAE, convened a side event on the sidelines of the 81st session of the United Nations General Assembly (UNGA81) to highlight the UAE\u2019s ef",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2105912961030299761",
+      "published": "2026-10-02T06:49:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0cd56f3fa6937e77d6ed6cd67029e901",
+      "title": "\u0639\u0642\u062f\u062a \u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0627\u0633\u062a\u0634\u0627\u0631\u064a\u0629 \u0627\u0644\u0625\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a\u0629 \u0644\u0644\u0634\u0631\u0637\u0629 (SPAG)\u060c \u0628\u0631\u0626\u0627\u0633\u0629 \u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u060c \u062d\u062f\u062b\u0627\u064b \u062c\u0627\u0646\u0628\u064a\u0627\u064b \u0639\u0644\u0649 \u0647\u0627\u0645\u0634 \u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u062f\u0648\u0631\u0629 \u0627\u0644\u062d\u0627\u062f\u064a\u0629 \u0648\u0627\u0644\u062b\u0645\u0627\u0646\u064a\u0646 \u0644\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 (UNGA81)\u060c \u062a\u0646\u0627\u0648\u0644 \u062c\u0647\u0648\u062f \u0627\u0644\u062f\u0648\u0644\u0629 \u0648\u0625\u0633\u0647\u0627\u0645\u0627\u062a\u0647\u0627 \u0641\u064a \u062f\u0639\u0645 \u0639\u0645\u0644\u064a\u0627\u062a \u062d\u0641\u0638 \u0627\u0644\u0633\u0644\u0627\u0645 \u0648\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0633\u0644\u0645 \u0648\u0627\u0644\u0623\u0645\u0646 \u0627\u0644\u062f\u0648\u0644\u064a\u064a\u0646\u060c \u0648\u0633\u0644\u0637 \u0627\u0644\u062d\u062f\u062b \u0627\u0644\u0636\u0648\u0621 \u0639\u0644\u0649 \u0623\u0647\u0645\u064a\u0629 \"\u0648\u0631\u0634\u0629 \u0642\u0627\u062f\u0629 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u0633\u0644\u0627\u0645 (2026)\"\u060c \u0627\u0644\u062a\u064a \u0627\u0633\u062a\u0636\u0627\u0641\u062a\u0647\u0627 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0641\u064a \u0623\u0628\u0648\u0638\u0628\u064a \u062e\u0644\u0627\u0644 \u0627\u0644\u0641\u062a\u0631\u0629 \u0645\u0646 (31) \u0623\u063a\u0633\u0637\u0633 \u0625\u0644\u0649 (4) \u0633\u0628\u062a\u0645\u0628\u0631 (2026)\u060c \u0648\u062c\u0645\u0639\u062a \u0644\u0644\u0645\u0631\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0642\u064a\u0627\u062f\u0627\u062a \u0627\u0644\u0645\u0643\u0648\u0646\u064a\u0646 \u0627\u0644\u0634\u0631\u0637\u064a \u0648\u0627\u0644\u0639\u0633\u0643\u0631\u064a \u0641\u064a \u0628\u0639\u062b\u0627\u062a \u062d\u0641\u0638 \u0627\u0644\u0633\u0644\u0627\u0645 \u0639\u0644\u0649 \u0637\u0627\u0648\u0644\u0629 \u0648\u0627\u062d\u062f\u0629 The Strategic Police Advisory Group (SPAG), chaired by the UAE, convened a side event on the sidelines of the 81st session of the United Nations General Assembly (UNGA81) to highlight the UAE\u2019s ef",
+      "source": "IDF (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2105912961030299761",
+      "published": "2026-10-02T06:49:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
+      "title": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
+      "published": "2026-10-02T01:17:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/01/us-navy-awards-rtxs-raytheon-244b-for-sm-6-missiles-amid-stockpile-concerns/",
+      "title": "US Navy awards RTX\u2019s Raytheon $24.4B for SM-6 missiles amid stockpile concerns",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/01/us-navy-awards-rtxs-raytheon-244b-for-sm-6-missiles-amid-stockpile-concerns/",
+      "published": "2026-10-01T22:05:46+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=97256",
+      "title": "Can\u2019t start, won\u2019t start: Over 150 new military programs face delay under a CR",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/cant-start-wont-start-over-150-new-military-programs-face-delay-under-a-cr/",
+      "published": "2026-10-01T20:56:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crje8edqyej9o#0",
+      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T19:59:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/01/ukraine-deploys-fp-7-tactical-ballistic-missile-in-combat-for-first-time-zelenskyy-says/",
+      "title": "Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskyy says",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/01/ukraine-deploys-fp-7-tactical-ballistic-missile-in-combat-for-first-time-zelenskyy-says/",
+      "published": "2026-10-01T19:54:35+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/video/2026/oct/01/how-stabbing-incident-unfolded-israel-bound-flydubai-plane-deconstructed",
+      "title": "How the stabbing incident unfolded on Israel-bound flydubai plane | Deconstructed",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/video/2026/oct/01/how-stabbing-incident-unfolded-israel-bound-flydubai-plane-deconstructed",
+      "published": "2026-10-01T18:43:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza",
+      "title": "NAZA film-makers say they spoke to more than 100 sources about Israeli actions in Gaza",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza",
+      "published": "2026-10-01T17:45:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=97193",
+      "title": "Drone-maker Powerus, backed by Trump brothers, goes public",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/dronemaker-powerus-backed-by-trump-brothers-goes-public/",
+      "published": "2026-10-01T17:05:21+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0a8a529aa5436668d7c0d94c5d12b0a1",
+      "title": "Iranian Foreign Minister Abbas Araghchi and Japanese Foreign Minister Toshimitsu Motegi held phone talks Thursday on the latest regional and international developments and issues of mutual interest.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2105683772419043383",
+      "published": "2026-10-01T15:38:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/01/dutch-say-asw-frigate-talks-ongoing-amid-reports-belgium-may-quit-project/",
+      "title": "Dutch say ASW frigate talks ongoing amid reports Belgium may quit project",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/01/dutch-say-asw-frigate-talks-ongoing-amid-reports-belgium-may-quit-project/",
+      "published": "2026-10-01T15:01:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno#0",
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T14:22:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/unmanned/2026/10/01/neros-perennial-autonomy-lead-in-pentagons-drone-competition/",
+      "title": "Neros, Perennial Autonomy lead in Pentagon\u2019s drone competition",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/unmanned/2026/10/01/neros-perennial-autonomy-lead-in-pentagons-drone-competition/",
+      "published": "2026-10-01T14:02:08+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po#0",
+      "title": "Flydubai passenger describes hugging his children as plane nosedived during attack",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T13:57:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo#0",
+      "title": "Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T11:26:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.0853,
+        "lng": 34.7818
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo#0",
+      "title": "Plummeting Israel flight like 'rollercoaster', says passenger",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T03:52:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no#0",
+      "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T21:38:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o#1",
+      "title": "UK believes Iran involved in RAF Fairford incident, Burnham says",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T21:26:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "15e067b23cdd006c4545fd5ab184142b",
+      "title": "Magen David Adom teams, together with the medical clinic teams at Ben Gurion Airport, are on standby at the airport with MICUs and ambulances to meet the passengers arriving in Israel from Saudi Arabia. MDA paramedics will conduct medical assessments of the passengers and, if necessary, provide medical care.",
+      "source": "Magen David Adom (RSS.app)",
+      "source_url": "https://x.com/Mdais/status/2105317120640774370",
+      "published": "2026-09-30T15:21:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1e2fbc893c5fc90e6378a3bf046a0999",
+      "title": "RT by @CivilDefenceAD: RT by @CivilDefenceAD: #AbuDhabiPolice and Abu Dhabi Civil Defence Authority teams have controlled a fire that broke out this afternoon, Wednesday, 30 September 2026, at a waste collection site in Al Wathba Region. No injuries were reported, and cooling and smoke extraction operations are underway. Abu Dhabi Police advises the public to obtain information from official sources only.",
+      "source": "Abu Dhabi Civil Defence (RSS.app)",
+      "source_url": "https://x.com/ADPoliceHQ/status/2105290105816793091",
+      "published": "2026-09-30T13:34:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo#1",
+      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T11:36:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo#1",
+      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T05:02:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    }
+  ]
+}
