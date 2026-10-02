@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-02T17:20:46.815379+00:00",
-  "total_incidents": 68,
+  "generated_at": "2026-10-02T17:31:39.190510+00:00",
+  "total_incidents": 60,
   "incidents": [
+    {
+      "id": "c06aa57da84b675af3f46b79d270c46f",
+      "title": "Emirates Flight Catering (EKFC), in partnership with Microsoft, has launched the modernised Farm Manager platform, which runs operations at Emirates Bustanica, one of the world's largest indoor vertical farms. The work was led by EKFC\u2019s in-house developers with Microsoft engineers using GitHub Copilot and agentic AI. The system supports optimising production, crop and environmental data, fewer manual processes and faster, data-led decisions. Bustanica sits at the crossroads of cutting-edge technology and the UAE's food security strategy, and this milestone reinforces its role in keeping the UAE at the forefront of agritech.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2106071933930615000",
+      "published": "2026-10-02T17:20:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "5dad0c844c5406e146b0e338ce7da821",
       "title": "Mansoor bin Mohammed: My sincere thanks to His Highness Sheikh Mohammed bin Rashid Al Maktoum for his continued patronage and support for Dubai\u2019s sporting sector. I congratulate my brother, His Highness Sheikh Ahmed bin Mohammed bin Rashid Al Maktoum, on taking on the role of Chairman of Al Wasl Club, and Sheikh Butti bin Maktoum bin Juma Al Maktoum on becoming Vice Chairman. I am confident that the legacy of the late Sheikh Ahmed bin Rashid Al Maktoum will remain in safe hands as the club continues to build on its proud history. Wishing Al Wasl and all of Dubai\u2019s clubs continued success and achievement.",
@@ -37,28 +59,6 @@
         "city": null,
         "lat": 23.4241,
         "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3907770",
-      "title": "Small plane crashes in northern Israel, killing 1 and injuring another",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/small-plane-crashes-in-northern-israel-killing-1-and-injuring-another/",
-      "published": "2026-10-02T16:40:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 85,
       "is_government": false,
@@ -157,28 +157,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?p=3907758",
-      "title": "IDF says Hamas Northern Brigade chief killed this week held 15 hostages during war",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/idf-says-it-killed-hamas-commander-who-oversaw-captivity-of-15-hostages/",
-      "published": "2026-10-02T15:37:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/europe/2026/10/02/ukraine-war-fatigue-fuels-defense-spending-downgrade-plan-in-italy/",
       "title": "Ukraine war fatigue fuels defense-spending downgrade plan in Italy",
       "source": "Defense News",
@@ -267,28 +245,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?p=3907692",
-      "title": "In first, senior UAE official calls flydubai plane attack an \u2018act of terrorism\u2019",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/in-first-senior-uae-official-calls-flydubai-plane-attack-an-act-of-terrorism/",
-      "published": "2026-10-02T14:47:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "99d2db5d003e9d4c3ac976b00841b59f",
       "title": "\u0627\u062e\u062a\u062a\u0645\u062a \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0645\u0634\u0627\u0631\u0643\u062a\u0647\u0627 \u0641\u064a \u0623\u0639\u0645\u0627\u0644 \u0645\u0624\u062a\u0645\u0631 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u062e\u0627\u0645\u0633 \u0639\u0634\u0631 \u0644\u0645\u0646\u0639 \u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0648\u0627\u0644\u0639\u062f\u0627\u0644\u0629 \u0627\u0644\u062c\u0646\u0627\u0626\u064a\u0629 \u2013 \u0623\u0628\u0648\u0638\u0628\u064a 2026\u060c \u0648\u0634\u0647\u062f\u062a \u0645\u0634\u0627\u0631\u0643\u0629 \u0627\u0644\u0648\u0632\u0627\u0631\u0629 \u062a\u0646\u0638\u064a\u0645 \u062d\u062f\u062b\u064a\u0646 \u0631\u0641\u064a\u0639\u064a \u0627\u0644\u0645\u0633\u062a\u0648\u0649\u060c \u0648\u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629 \u0641\u064a 6 \u062c\u0644\u0633\u0627\u062a \u0648\u0627\u062c\u062a\u0645\u0627\u0639\u0627\u062a \u0645\u062a\u062e\u0635\u0635\u0629\u060c \u0625\u0644\u0649 \u062c\u0627\u0646\u0628 \u0627\u0633\u062a\u0639\u0631\u0627\u0636 \u0639\u062f\u062f \u0645\u0646 \u0627\u0644\u0627\u0628\u062a\u0643\u0627\u0631\u0627\u062a \u0648\u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0648\u0627\u0644\u0631\u0642\u0645\u064a\u0629 \u0645\u0646 \u062e\u0644\u0627\u0644 \u062c\u0646\u0627\u062d \u0627\u0644\u0648\u0632\u0627\u0631\u0629 \u0641\u064a \u0627\u0644\u0645\u0639\u0631\u0636 \u0627\u0644\u0645\u0635\u0627\u062d\u0628 \u0644\u0644\u0645\u0624\u062a\u0645\u0631. The Ministry of Interior has concluded its participation in the 15th United Nations Congress on Crime Prevention and Criminal Justice \u2013 Abu Dhabi 2026. The Ministry\u2019s participation featured the organization of two high-level events and participation in six specialized sessions and meetings, in addition to showcasing a number of security and digital innovations and applications throu",
       "source": "UAE MOI (RSS.app)",
@@ -323,28 +279,6 @@
         "city": null,
         "lat": 24.4539,
         "lng": 54.3773
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "78266226d684245ecc7c8cced8affa3f",
-      "title": "flydubai Chief Executive Officer, Ghaith Al Ghaith: On 30 September, flydubai flight FZ 1073 from Dubai to Tel Aviv was diverted to Tabuk in Saudi Arabia, following a safety incident in the flight deck. I am relieved to confirm that all 172 passengers and crew on board are safe and being cared for. This includes our Captain, who has now returned to the UAE following medical clearance. We will continue to provide everyone affected with the support they need. I would like to commend the professionalism and dedication shown by our Captain, and the pilots who secured the aircraft and landed it safely as well as the cabin crew. My deepest thanks also go to the passengers on board who assisted our",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2106028895367758261",
-      "published": "2026-10-02T14:29:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.0853,
-        "lng": 34.7818
       },
       "credibility": 95,
       "is_government": true,
@@ -487,28 +421,6 @@
       }
     },
     {
-      "id": "c1049ec5b0bf85b1e557a13f5c60a14b",
-      "title": "Emirates has touched down in Helsinki for the first time. The launch of the daily flight marks the only year-round, direct connectivity between Finland and the UAE, introducing consistent and reliable services to unlock new leisure, corporate and trade opportunities for both countries.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2106013529128239562",
-      "published": "2026-10-02T13:28:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/business/aviation/2026/10/02/flydubai-flight-fz1073-puts-airline-deadheading-in-the-spotlight/",
       "title": "Flydubai flight FZ1073 puts airline \u2018deadheading\u2019 in spotlight",
       "source": "The National UAE",
@@ -553,28 +465,6 @@
       }
     },
     {
-      "id": "https://www.timesofisrael.com/?post_type=liveblog_entry&p=3907612",
-      "title": "Settlers reportedly attack Palestinians in olive groves as harvest season begins",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/settlers-reportedly-attack-palestinians-in-olive-groves-as-harvest-season-begins/",
-      "published": "2026-10-02T12:11:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo#0",
       "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
       "source": "BBC Middle East",
@@ -589,50 +479,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3907359",
-      "title": "Three years after October 7, Israel\u2019s citizens and its leaders are worlds apart",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/three-years-after-october-7-israels-citizens-and-its-leaders-are-worlds-apart/",
-      "published": "2026-10-02T11:26:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.timesofisrael.com/?p=3884420",
-      "title": "In \u2018Good Morning Gaza,\u2019 tank commander gives first-person look at troops\u2019 inner lives",
-      "source": "Times of Israel",
-      "source_url": "https://www.timesofisrael.com/in-good-morning-gaza-tank-commander-gives-first-person-look-at-troops-inner-lives/",
-      "published": "2026-10-02T11:22:53+00:00",
-      "type": "ground",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1183,28 +1029,6 @@
         "lng": 34.4668
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=97193",
-      "title": "Drone-maker Powerus, backed by Trump brothers, goes public",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/dronemaker-powerus-backed-by-trump-brothers-goes-public/",
-      "published": "2026-10-01T17:05:21+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
