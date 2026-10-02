@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-02T17:31:39.190510+00:00",
+  "generated_at": "2026-10-02T18:38:42.653800+00:00",
   "total_incidents": 60,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1790954081",
+      "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss",
+      "published": "2026-10-02T18:18:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/02/iraq-allows-40-iranian-flights-a-day-to-and-from-najaf/",
+      "title": "Iraq allows 40 Iranian flights a day to and from Najaf",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/02/iraq-allows-40-iranian-flights-a-day-to-and-from-najaf/",
+      "published": "2026-10-02T18:15:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1790958116",
+      "title": "Israel\u2019s Supreme Court overturns election panel ban on Arab parties",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss",
+      "published": "2026-10-02T18:11:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/2026/10/02/pictures-of-the-week-from-the-us-military-leaving-iraq-to-virtual-taekwondo/",
+      "title": "Pictures of the week: From the US military leaving Iraq to virtual Taekwondo",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/2026/10/02/pictures-of-the-week-from-the-us-military-leaving-iraq-to-virtual-taekwondo/",
+      "published": "2026-10-02T18:02:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1790960703",
+      "title": "Jerusalem Daily: Who gets to run in Israel\u2019s elections?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/jerusalem-daily-who-gets-to-run-in-israels-elections?traffic_source=rss",
+      "published": "2026-10-02T17:30:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "c06aa57da84b675af3f46b79d270c46f",
       "title": "Emirates Flight Catering (EKFC), in partnership with Microsoft, has launched the modernised Farm Manager platform, which runs operations at Emirates Bustanica, one of the world's largest indoor vertical farms. The work was led by EKFC\u2019s in-house developers with Microsoft engineers using GitHub Copilot and agentic AI. The system supports optimising production, crop and environmental data, fewer manual processes and faster, data-led decisions. Bustanica sits at the crossroads of cutting-edge technology and the UAE's food security strategy, and this milestone reinforces its role in keeping the UAE at the forefront of agritech.",
@@ -47,21 +157,21 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/future/technology/2026/10/02/uae-among-top-12-targets-for-cyber-threats-says-microsoft/",
-      "title": "UAE among top 12 targets for cyber threats, says Microsoft",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/02/uae-among-top-12-targets-for-cyber-threats-says-microsoft/",
-      "published": "2026-10-02T16:41:19+00:00",
-      "type": "cyber",
-      "status": "unconfirmed",
+      "id": "8121caa7ce3ddee8c2b897c9f94ad8f8",
+      "title": "The General Civil Aviation Authority (GCAA) commended the remarkable courage and speed of response of the Indian pilot, ...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/Dd_7rPTiMLM",
+      "published": "2026-10-02T16:38:44+00:00",
+      "type": "incident",
+      "status": "confirmed",
       "location": {
-        "country": "UAE",
+        "country": null,
         "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
+        "lat": 29.0,
+        "lng": 48.0
       },
-      "credibility": 85,
-      "is_government": false,
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -114,7 +224,7 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1790953249",
-      "title": "Trump to name intelligence chief Clayton as AI tsar: Reports",
+      "title": "Trump to name intelligence chief Jay Clayton as AI tsar: Reports",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/2/reports-trump-to-name-intel-chief-clayton-as-ai-tsar?traffic_source=rss",
       "published": "2026-10-02T16:06:15+00:00",
@@ -171,28 +281,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/02/flydubai-ghaith-al-ghaith-statement-fz-1073-tel-aviv-flight/",
-      "title": "Flydubai chief praises crew and passengers after mid-air emergency on Tel Aviv-bound flight",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/02/flydubai-ghaith-al-ghaith-statement-fz-1073-tel-aviv-flight/",
-      "published": "2026-10-02T15:28:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.0853,
-        "lng": 34.7818
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -311,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1790949990",
-      "title": "G7 announces oil reserve release, as Trump hails Europe diesel deal",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss",
-      "published": "2026-10-02T14:14:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/europe/2026/10/02/french-air-force-plans-loyal-wingman-flight-in-2028-in-sovereign-ai-push/",
       "title": "French Air Force plans loyal wingman flight in 2028 in sovereign AI push",
       "source": "Defense News",
@@ -367,72 +433,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/europe/2026/10/02/its-not-her-fault-children-of-iranian-nobel-prize-winner-narges-mohammadi-on-pain-of-separation/",
-      "title": "'It's not her fault': Children of Iranian Nobel Prize winner Narges Mohammadi on pain of separation",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/02/its-not-her-fault-children-of-iranian-nobel-prize-winner-narges-mohammadi-on-pain-of-separation/",
-      "published": "2026-10-02T13:41:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/02/israeli-supreme-court-overrules-decision-to-disqualify-arab-lists-from-election/",
-      "title": "Israeli Supreme Court overrules decision to disqualify Arab lists from election",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/02/israeli-supreme-court-overrules-decision-to-disqualify-arab-lists-from-election/",
-      "published": "2026-10-02T13:38:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/aviation/2026/10/02/flydubai-flight-fz1073-puts-airline-deadheading-in-the-spotlight/",
-      "title": "Flydubai flight FZ1073 puts airline \u2018deadheading\u2019 in spotlight",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/aviation/2026/10/02/flydubai-flight-fz1073-puts-airline-deadheading-in-the-spotlight/",
-      "published": "2026-10-02T13:21:36+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 85,
       "is_government": false,
