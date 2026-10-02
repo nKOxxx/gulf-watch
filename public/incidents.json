@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-02T20:32:11.481340+00:00",
-  "total_incidents": 60,
+  "generated_at": "2026-10-02T21:30:53.245624+00:00",
+  "total_incidents": 59,
   "incidents": [
+    {
+      "id": "264df5c3f56e8f1078249e0eb1983ee4",
+      "title": "Palestinian teen killed by Jewish settler gunfire in W. Bank  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2106128467989307803",
+      "published": "2026-10-02T21:05:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "94609463774f1b87dfd72408f902818c",
+      "title": "Coalition forces shoot down 3 ballistic missiles SW #Saudi_Arabia  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2106126429888860287",
+      "published": "2026-10-02T20:57:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1790974383",
+      "title": "FlyDubai pilot hailed as \u2018national hero\u2019 as he describes attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-hailed-as-national-hero-as-he-describes-attack?traffic_source=rss",
+      "published": "2026-10-02T20:54:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1790968915",
+      "title": "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss",
+      "published": "2026-10-02T20:32:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1790966948",
       "title": "Arab party leader withdraws from Israeli elections",
@@ -113,28 +201,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1790958116",
-      "title": "Israel\u2019s Supreme Court overturns election panel ban on Arab parties",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss",
-      "published": "2026-10-02T18:11:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/2026/10/02/pictures-of-the-week-from-the-us-military-leaving-iraq-to-virtual-taekwondo/",
       "title": "Pictures of the week: From the US military leaving Iraq to virtual Taekwondo",
       "source": "The National UAE",
@@ -149,28 +215,6 @@
         "lng": 43.6793
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1790960703",
-      "title": "Jerusalem Daily: Who gets to run in Israel\u2019s elections?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/jerusalem-daily-who-gets-to-run-in-israels-elections?traffic_source=rss",
-      "published": "2026-10-02T17:30:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -575,28 +619,6 @@
       }
     },
     {
-      "id": "61c382a08c28a47a5edac31e6386f36a",
-      "title": "#Lebanon condemns the targeting of a power facility feeding Al-Masjid El-Nabawi (the Prophet's Mosque) in Madinah, #SaudiArabia.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2105960632872755555",
-      "published": "2026-10-02T09:58:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "5f6f3a1f868e679622f9e66c2882bd69",
       "title": "ROP WEEKLY_An accident happens in seconds. What happens next matters. Give way. Keep clear. Stay calm. Every right move can help emergency teams reach those who need them. Don\u2019t add to the accident. Help end it. #royalomanpolice For listening, click the link below",
       "source": "Royal Oman Police (RSS.app)",
@@ -707,28 +729,6 @@
       }
     },
     {
-      "id": "a56825163ac6ddd9441be3eaddc3ca40",
-      "title": "#Sudan's economy is in risk of inflation as pound plunges (Report)  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2105931223675683030",
-      "published": "2026-10-02T08:01:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "32c2d5b8071cc83c9ad17f91fd18e5b9",
       "title": "\u0623\u0643\u062f\u062a \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0623\u0647\u0645\u064a\u0629 \u062a\u0648\u062d\u064a\u062f \u0627\u0644\u062c\u0647\u0648\u062f \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0648\u062a\u0648\u0633\u064a\u0639 \u0627\u0644\u0634\u0631\u0627\u0643\u0627\u062a \u0628\u064a\u0646 \u0627\u0644\u062d\u0643\u0648\u0645\u0627\u062a \u0648\u0623\u062c\u0647\u0632\u0629 \u0625\u0646\u0641\u0627\u0630 \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0648\u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u062e\u0627\u0635\u060c \u0648\u062a\u0648\u0638\u064a\u0641 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0648\u0627\u0644\u062a\u0642\u0646\u064a\u0627\u062a \u0627\u0644\u062d\u062f\u064a\u062b\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0648\u0642\u0627\u064a\u0629 \u0645\u0646 \u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u0633\u064a\u0628\u0631\u0627\u0646\u064a\u0629\u060c \u0648\u0645\u0648\u0627\u062c\u0647\u0629 \u0627\u0644\u0627\u0633\u062a\u063a\u0644\u0627\u0644 \u0648\u0627\u0644\u0627\u0639\u062a\u062f\u0627\u0621 \u0627\u0644\u062c\u0646\u0633\u064a \u0639\u0644\u0649 \u0627\u0644\u0623\u0637\u0641\u0627\u0644 \u0639\u0628\u0631 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a\u060c \u0648\u0630\u0644\u0643 \u062e\u0644\u0627\u0644 \u062c\u0644\u0633\u0629 \u0641\u064a \u0645\u0624\u062a\u0645\u0631 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u062e\u0627\u0645\u0633 \u0639\u0634\u0631 \u0644\u0645\u0646\u0639 \u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0648\u0627\u0644\u0639\u062f\u0627\u0644\u0629 \u0627\u0644\u062c\u0646\u0627\u0626\u064a\u0629\u060c \u062d\u064a\u062b \u0627\u0633\u062a\u0639\u0631\u0636 \u0627\u0644\u0645\u0642\u062f\u0645 \u062e\u0627\u0644\u062f \u0627\u0644\u0643\u0639\u0628\u064a\u060c \u0645\u062f\u064a\u0631 \u0645\u0631\u0643\u0632 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0644\u062d\u0645\u0627\u064a\u0629 \u0627\u0644\u0637\u0641\u0644\u060c \u062a\u062c\u0631\u0628\u0629 \u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0641\u064a \u062a\u0648\u0638\u064a\u0641 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0644\u062a\u0639\u0632\u064a\u0632 \u062d\u0645\u0627\u064a\u0629 \u0627\u0644\u0623\u0637\u0641\u0627\u0644 \u0641\u064a \u0627\u0644\u0641\u0636\u0627\u0621 \u0627\u0644\u0631\u0642\u0645\u064a. The Ministry of Interior stressed the importance of international cooperation and partnerships between governments, law enforcement and the private sector, while leveraging AI and modern technologies to prevent cyber",
       "source": "UAE MOI (RSS.app)",
@@ -785,28 +785,6 @@
         "city": null,
         "lat": 23.4241,
         "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "9c17cee93cfa618c6dc7b6af1ca4bdb6",
-      "title": "KPC: #Kuwait oil prices up USD 2.35 to USD 104.59 pb @kpcofficialkw  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2105918898839187691",
-      "published": "2026-10-02T07:12:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
