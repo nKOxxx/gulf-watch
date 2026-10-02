@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-02T21:30:53.245624+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-10-02T22:31:25.671030+00:00",
+  "total_incidents": 57,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1790973744",
+      "title": "Israel could\u2019ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss",
+      "published": "2026-10-02T21:53:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=97409",
+      "title": "Army to establish new autonomy command, acquisition executive",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/army-to-establish-new-autonomy-command-acquisition-executive/",
+      "published": "2026-10-02T21:46:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1790975460",
+      "title": "Israeli general: Gaza captives could have been freed a year earlier",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier?traffic_source=rss",
+      "published": "2026-10-02T21:15:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "264df5c3f56e8f1078249e0eb1983ee4",
       "title": "Palestinian teen killed by Jewish settler gunfire in W. Bank  #KUNA #KUWAIT",
@@ -91,28 +157,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1790966948",
-      "title": "Arab party leader withdraws from Israeli elections",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss",
-      "published": "2026-10-02T19:10:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/mideast-africa/2026/10/02/saudis-plan-assault-on-houthis-to-break-red-sea-chokehold/",
       "title": "Saudis plan assault on Houthis to break Red Sea chokehold",
       "source": "Defense News",
@@ -125,50 +169,6 @@
         "city": null,
         "lat": 20.0,
         "lng": 38.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1790964059",
-      "title": "Sudan\u2019s army says it captured RSF stronghold in North Kordofan",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss",
-      "published": "2026-10-02T18:51:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1790954081",
-      "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss",
-      "published": "2026-10-02T18:18:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -597,28 +597,6 @@
       }
     },
     {
-      "id": "9d737b938e19558dff37cf8f4d391b7e",
-      "title": "#EU discusses timing of diesel reserve release with the International Energy Agency.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2105961775795474692",
-      "published": "2026-10-02T10:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "5f6f3a1f868e679622f9e66c2882bd69",
       "title": "ROP WEEKLY_An accident happens in seconds. What happens next matters. Give way. Keep clear. Stay calm. Every right move can help emergency teams reach those who need them. Don\u2019t add to the accident. Help end it. #royalomanpolice For listening, click the link below",
       "source": "Royal Oman Police (RSS.app)",
@@ -919,28 +897,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=97256",
-      "title": "Can\u2019t start, won\u2019t start: Over 150 new military programs face delay under a CR",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/cant-start-wont-start-over-150-new-military-programs-face-delay-under-a-cr/",
-      "published": "2026-10-01T20:56:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
