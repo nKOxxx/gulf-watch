@@ -5,7 +5,7 @@ theatre: 70+ public RSS sources — tier-1 wire services (Reuters, BBC, Guardian
 Al Jazeera) and official government accounts (MOI/MOD/civil defence across UAE,
 KSA, Qatar, Kuwait, Bahrain, Oman, Israel) — classified, geolocated, scored.
 
-Live: **https://nkOxxx.github.io/gulf-watch/** (Pages, rebuilt on every hourly feed refresh)
+Live: **https://nkoxxx.github.io/gulf-watch-2.0/** (Pages, rebuilt on every hourly feed refresh)
 
 ```
 ┌────────────┐   hourly GH Action   ┌──────────┐   Pages   ┌──────────────┐

@@ -31,4 +31,4 @@ data is public-aggregator class; mis/disinformation risk mitigated by per-item
 source + credibility display and OFFICIAL badging.
 
 ## Verification log
-- CI run 37040986177 (2026-10-02): gitleaks clean, supply-chain gate pass, deck parse pass, feed schema pass. Pages deploy run 37040985757 green. Prod verified: nkoxxx.github.io/gulf-watch 200, 68 items, 0 JS errors.
+- CI run 37040986177 (2026-10-02): gitleaks clean, supply-chain gate pass, deck parse pass, feed schema pass. Pages deploy run 37040985757 green. Prod verified: nkoxxx.github.io/gulf-watch-2.0 200, 68 items, 0 JS errors.
