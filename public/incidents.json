@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-03T08:37:10.959695+00:00",
-  "total_incidents": 64,
+  "generated_at": "2026-10-03T09:31:41.492162+00:00",
+  "total_incidents": 65,
   "incidents": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o#0",
       "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T08:26:06+00:00",
+      "published": "2026-10-03T09:23:31+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -17,6 +17,72 @@
         "lng": 55.2708
       },
       "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/03/braveheart-flydubai-pilot-recovering-well-after-cockpit-axe-attack-indian-embassy-in-uae-says/",
+      "title": "'Braveheart' flydubai pilot recovering well after cockpit axe attack, Indian embassy in UAE says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/03/braveheart-flydubai-pilot-recovering-well-after-cockpit-axe-attack-indian-embassy-in-uae-says/",
+      "published": "2026-10-03T09:14:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
+      "title": "Libyan unity talks upended as warlord\u2019s son linked to drone attacks on fuel facilities",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
+      "published": "2026-10-03T09:00:56+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791012522",
+      "title": "Yemen\u2019s army claims over 1,500 Houthi casualties in past 24 hours",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says?traffic_source=rss",
+      "published": "2026-10-03T08:36:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -501,28 +567,6 @@
         "lng": 38.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/02/iraq-allows-40-iranian-flights-a-day-to-and-from-najaf/",
-      "title": "Iraq allows 40 Iranian flights a day to and from Najaf",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/02/iraq-allows-40-iranian-flights-a-day-to-and-from-najaf/",
-      "published": "2026-10-02T18:15:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1118,28 +1162,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
-      "title": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
-      "published": "2026-10-02T01:17:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
