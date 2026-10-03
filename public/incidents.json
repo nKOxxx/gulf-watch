@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-03T04:38:52.733522+00:00",
-  "total_incidents": 61,
+  "generated_at": "2026-10-03T05:40:22.886882+00:00",
+  "total_incidents": 60,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/2026/10/03/takreem-foundation-supports-lebanese-children-at-15-years-anniversary/",
+      "title": "Takreem Foundation supports Lebanese children at 15th anniversary awards event",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/2026/10/03/takreem-foundation-supports-lebanese-children-at-15-years-anniversary/",
+      "published": "2026-10-03T05:00:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791003428",
+      "title": "New claims that Netanyahu rejected Hamas offer to release captives",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss",
+      "published": "2026-10-03T04:58:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1790998054",
+      "title": "WHO warns of \u2018devastating consequences\u2019 due to delayed aid entry into Gaza",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/3/who-warns-of-devastating-consequences-due-to-delayed-aid-entry-into-gaza?traffic_source=rss",
+      "published": "2026-10-03T04:54:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1790998545",
+      "title": "10 injured after car crashes into rugby supporters in Australia",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/3/10-injured-after-car-crashes-into-rugby-supporters-in-australia?traffic_source=rss",
+      "published": "2026-10-03T04:29:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 10,
+        "military": 0,
+        "civilian": 10
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1790991946",
       "title": "Two Iranians charged over alleged plot targeting Jewish community in UK",
@@ -26,14 +114,14 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/03/live-us-iran-war-iraq/",
-      "title": "Iran war latest: Iraq allows 40 Iranian flights a day to and from Najaf",
+      "title": "Iran war latest: Attack on tanker off the Omani coast",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/10/03/live-us-iran-war-iraq/",
       "published": "2026-10-03T03:50:06+00:00",
-      "type": "incident",
+      "type": "ground",
       "status": "unconfirmed",
       "location": {
-        "country": "Iran",
+        "country": "Oman",
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
@@ -81,72 +169,6 @@
         "city": null,
         "lat": 31.5017,
         "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1790981902",
-      "title": "US and Australia suspend diplomatic operations in Brazil before election",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss",
-      "published": "2026-10-03T00:46:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1790979177",
-      "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
-      "published": "2026-10-03T00:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1790982117",
-      "title": "North Korea fires ballistic missile towards the sea, South Korea says",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss",
-      "published": "2026-10-02T23:55:24+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -480,28 +502,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0b9915656f1b2fe60331f260f9ac2105",
-      "title": "World Health Organization (#WHO) warns that approval system imposed by Israeli occupation officials on entry of medical supplies remains \"major bottleneck\" to delivery of health services amid deterioration of health situation in #Gaza  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2106043602572853574",
-      "published": "2026-10-02T15:28:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1313,28 +1313,6 @@
         "city": null,
         "lat": 33.2232,
         "lng": 43.6793
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo#1",
-      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T05:02:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 95,
       "is_government": false,
