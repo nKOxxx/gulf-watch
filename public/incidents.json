@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-03T03:49:23.538609+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-10-03T04:38:52.733522+00:00",
+  "total_incidents": 61,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1790991946",
+      "title": "Two Iranians charged over alleged plot targeting Jewish community in UK",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/3/two-iranians-charged-over-alleged-plot-targeting-jewish-community-in-uk?traffic_source=rss",
+      "published": "2026-10-03T03:56:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/03/live-us-iran-war-iraq/",
+      "title": "Iran war latest: Iraq allows 40 Iranian flights a day to and from Najaf",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/03/live-us-iran-war-iraq/",
+      "published": "2026-10-03T03:50:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "f3d69f71332e6c9c80c12b08f755a8e8",
       "title": "Five Palestinians killed in Israeli airstrike on residential apartment in Gaza  #KUNA",
