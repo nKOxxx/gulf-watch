@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-03T18:23:57.713292+00:00",
-  "total_incidents": 58,
+  "generated_at": "2026-10-03T20:09:33.043608+00:00",
+  "total_incidents": 56,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791050600",
+      "title": "Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss",
+      "published": "2026-10-03T18:23:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791021754",
+      "title": "Portugal vs Norway: UEFA Nations League \u2013 Ronaldo latest, Haaland, teams",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/3/portugal-vs-norway-uefa-nations-league-ronaldo-latest-haaland-teams?traffic_source=rss",
+      "published": "2026-10-03T18:13:41+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791044477",
       "title": "Algeria sent fighter jets to Niger to thwart \u2018coup attempt\u2019, president says",
@@ -59,94 +103,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791043858",
-      "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted \u2018terrorist\u2019 attack",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
-      "published": "2026-10-03T16:17:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791044025",
-      "title": "Israeli reporters\u2019 \u2018verbal attack\u2019 cuts short Ireland press conference",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss",
-      "published": "2026-10-03T16:16:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791041768",
-      "title": "What we know about the co-pilot accused in Flydubai attack",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/what-we-know-about-the-co-pilot-accused-in-flydubai-attack?traffic_source=rss",
-      "published": "2026-10-03T15:39:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791034028",
-      "title": "At least 17 people, mostly pilgrims, killed in Kenya road crash",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss",
-      "published": "2026-10-03T14:30:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
