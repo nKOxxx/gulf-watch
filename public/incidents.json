@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-10-03T05:40:22.886882+00:00",
-  "total_incidents": 60,
+  "generated_at": "2026-10-03T06:55:20.222898+00:00",
+  "total_incidents": 66,
   "incidents": [
+    {
+      "id": "d4877a7b2f975b12f9e972b6673b372f",
+      "title": "Ambassador and Charge de'affairs of the Islamic Republic of Iran to the United Nations Gholamhossein Darzi has scolded the US and its allies for abusing the UN Security Council (UNSC) to advance their own political agendas.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2106275262388208020",
+      "published": "2026-10-03T06:48:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f431e6adde412ab608f22e6ffb3e51c8",
+      "title": "The Islamic Revolution Guards Corps (IRGC) says the era of cost-free threats against Iran is over, warning that any act of aggression will be met with a \u201cpainful and regret-inducing\u201d response.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2106275083450831037",
+      "published": "2026-10-03T06:48:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/03/co-pilot-on-flydubai-flight-attempted-to-carry-out-terrorist-act-uaes-attorney-general-says/",
+      "title": "Co-pilot on flydubai flight 'attempted to carry out terrorist act', UAE's attorney general says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/03/co-pilot-on-flydubai-flight-attempted-to-carry-out-terrorist-act-uaes-attorney-general-says/",
+      "published": "2026-10-03T06:30:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791007575",
+      "title": "Flydubai co-pilot stabbed captain with crash axe in \u2018terrorist\u2019 attack: UAE",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/3/flydubai-co-pilot-stabbed-pilot-with-crash-axe-in-terrorist-attack-uae?traffic_source=rss",
+      "published": "2026-10-03T06:16:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/03/gulf-nations-urged-to-form-ecological-union-as-study-suggest-iran-war-caused-unprecedented-damage/",
+      "title": "Gulf nations urged to form ecological union as study suggest Iran war caused 'unprecedented' damage",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/03/gulf-nations-urged-to-form-ecological-union-as-study-suggest-iran-war-caused-unprecedented-damage/",
+      "published": "2026-10-03T06:12:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/03/iran-gearing-up-for-major-round-of-fighting-with-us-source-says/",
+      "title": "Iran gearing up for 'major round of fighting' with US, says source",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/03/iran-gearing-up-for-major-round-of-fighting-with-us-source-says/",
+      "published": "2026-10-03T05:46:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/03/yemens-houthis-set-to-face-costly-battle-for-control-of-taiz-stronghold-of-the-anti-rebel-resistance/",
+      "title": "Yemen's Houthis set to face costly battle for control of Taiz, stronghold of the anti-rebel resistance",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/03/yemens-houthis-set-to-face-costly-battle-for-control-of-taiz-stronghold-of-the-anti-rebel-resistance/",
+      "published": "2026-10-03T05:45:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7da117db65c4b43dc58877c64d423be2",
+      "title": "#\u0644\u0627_\u062a\u0633\u0647\u0644\u0647\u0627_\u0639\u0644\u064a\u0647\u0645 #\u0634\u0647\u0631_\u0627\u0644\u062a\u0648\u0639\u064a\u0629_\u0628\u0627\u0644\u0623\u0645\u0646_\u0627\u0644\u0633\u064a\u0628\u0631\u0627\u0646\u064a #DontMakeItEasyForThem #CybersecurityAwarenessMonth #bahrain",
+      "source": "Bahrain MOI (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DeBUwmNiYVh",
+      "published": "2026-10-03T05:44:06+00:00",
+      "type": "cyber",
+      "status": "confirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1790961371",
+      "title": "Gaza voters want jobs and security as Palestinian elections approach",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss",
+      "published": "2026-10-03T05:39:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/2026/10/03/takreem-foundation-supports-lebanese-children-at-15-years-anniversary/",
       "title": "Takreem Foundation supports Lebanese children at 15th anniversary awards event",
@@ -150,28 +348,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1790991195",
-      "title": "Israeli air attack on Gaza City apartment kills at least five",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss",
-      "published": "2026-10-03T02:25:23+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -345,28 +521,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/2026/10/02/pictures-of-the-week-from-the-us-military-leaving-iraq-to-virtual-taekwondo/",
-      "title": "Pictures of the week: From the US military leaving Iraq to virtual Taekwondo",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/2026/10/02/pictures-of-the-week-from-the-us-military-leaving-iraq-to-virtual-taekwondo/",
-      "published": "2026-10-02T18:02:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
       },
       "credibility": 85,
       "is_government": false,
@@ -1049,28 +1203,6 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza",
-      "title": "NAZA film-makers say they spoke to more than 100 sources about Israeli actions in Gaza",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza",
-      "published": "2026-10-01T17:45:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 90,
       "is_government": false,
