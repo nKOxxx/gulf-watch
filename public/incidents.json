@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T01:42:49.647355+00:00",
-  "total_incidents": 58,
+  "generated_at": "2026-10-03T02:48:14.559163+00:00",
+  "total_incidents": 57,
   "incidents": [
     {
       "id": "https://www.aljazeera.com/?t=1790981902",
@@ -128,28 +128,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1790973744",
-      "title": "Israel could\u2019ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss",
-      "published": "2026-10-02T21:53:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
