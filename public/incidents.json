@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-02T23:29:42.507763+00:00",
-  "total_incidents": 57,
+  "generated_at": "2026-10-03T01:05:54.682101+00:00",
+  "total_incidents": 58,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1790981902",
+      "title": "US and Australia suspend diplomatic operations in Brazil before election",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss",
+      "published": "2026-10-03T00:46:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1790979177",
+      "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
+      "published": "2026-10-03T00:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1790982117",
+      "title": "North Korea fires ballistic missile towards the sea, South Korea says",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss",
+      "published": "2026-10-02T23:55:24+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "c335f9b5c1eb91004a2b778dfde062d2",
       "title": "One person injured due to debris of missile in #Saudi_Arabia 's Ahad Rafidah  #KUNA #KUWAIT",
@@ -113,28 +179,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1790975460",
-      "title": "Israeli general: Gaza captives could have been freed a year earlier",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier?traffic_source=rss",
-      "published": "2026-10-02T21:15:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "264df5c3f56e8f1078249e0eb1983ee4",
       "title": "Palestinian teen killed by Jewish settler gunfire in W. Bank  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -172,28 +216,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1790974383",
-      "title": "FlyDubai pilot hailed as \u2018national hero\u2019 as he describes attack",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-hailed-as-national-hero-as-he-describes-attack?traffic_source=rss",
-      "published": "2026-10-02T20:54:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
